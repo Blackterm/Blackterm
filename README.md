@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username={Blackterm}
-https://github-readme-stats.vercel.app/api/top-langs/?username={Blackterm}
+[![]https://github-readme-stats.vercel.app/api?username={Blackterm}]
+[![]https://github-readme-stats.vercel.app/api/top-langs/?username={Blackterm}]
 
 
 - 🔭 I’m currently working on Mobil App
